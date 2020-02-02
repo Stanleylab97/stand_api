@@ -75,7 +75,7 @@ module.exports={
             }
         })
         .catch(function(err){
-            return res.status(500).json({'error':'unaable to verify user'})
+            return res.status(500).json({'error':'unable to verify user'})
         });
     },
     getUser:function(req,res){
