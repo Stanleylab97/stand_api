@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "",
+    "username": "stanley",
+    "password": "stan",
     "database": "stand_dev",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "operatorsAliases": false
   },
   "test": {
-    "username": "root",
-    "password": "",
+    "username": "stanley",
+    "password": "stan",
     "database": "stand_test",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "operatorsAliases": false
   },
   "production": {
-    "username": "root",
-    "password": "",
+    "username": "stanley",
+    "password": "stan",
     "database": "stand_prod",
     "host": "127.0.0.1",
     "dialect": "mysql",
