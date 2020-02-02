@@ -17,5 +17,5 @@ server.get('/',function(req,res){
 server.use('/v2/',apiRouter);
 
 server.listen(8000,function(){
-    console.log('Serveur en marche');
+    console.log('Serveur en marche surle port 8000');
 })
